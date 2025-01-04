@@ -1,0 +1,24 @@
+6 7 23 15
+3
+9 19 29
+enter 0 246 31 2
+enter 0 167 27 2
+enter 0 231 117 2
+enter 0 34 50 2
+enter 0 208 65 2
+enter 0 119 43 2
+enter 0 180 79 3
+enter 5 234 116 3
+enter 8 176 90 3
+enter 8 5 52 2
+enter 12 213 24 3
+enter 18 221 92 2
+enter 20 203 49 4
+enter 21 53 60 2
+enter 44 159 37 2
+enter 49 40 67 2
+enter 55 235 87 2
+enter 55 101 89 4
+enter 55 62 87 2
+enter 58 72 72 3
+end
