@@ -1,2 +1,2 @@
 # ExamSimulation
-Project for simulating a exam in FMI Hall
+Project for simulating an exam in FMI Hall
